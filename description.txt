@@ -1,0 +1,2 @@
+This mod replicates the bone key and makes it fight for you! 
+The Better Bone Key is crafted from the regular Bone Key at a workbench.

@@ -1,0 +1,3 @@
+displayName = Better Bone Key
+author = Bacon1933
+version = 0.2.4
